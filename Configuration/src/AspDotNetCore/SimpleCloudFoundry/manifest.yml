@@ -1,7 +1,7 @@
 ---
 applications:
-- name: <YOUR INITIALS>-ConfigApp 
+- name: foo 
   env:
     ASPNETCORE_ENVIRONMENT: development
   services:
-   - <YOUR INITIALS>-ConfigServer
+   - rr-ConfigServer
