@@ -1,6 +1,6 @@
 ---
 applications:
-- name: foo
+- name: <YOUR INITIALS>-ConfigServerWin
   memory: 512M
   stack: windows2012R2
   health-check-type: none
@@ -8,4 +8,4 @@ applications:
   env:
      ASPNETCORE_ENVIRONMENT: development
   services:
-   - myConfigServer
+   - <YOUR INITIALS>-ConfigServer
