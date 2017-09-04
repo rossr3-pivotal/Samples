@@ -4,5 +4,5 @@ applications:
   env:
     ASPNETCORE_ENVIRONMENT: Production
   services:
-    - myDiscoveryService
-    - myHystrixService
+    - <YOUR INITIALS>-DiscoveryService
+    - <YOUR INITIALS>-HystrixService

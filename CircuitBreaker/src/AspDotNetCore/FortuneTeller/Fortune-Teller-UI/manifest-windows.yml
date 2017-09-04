@@ -8,5 +8,5 @@ applications:
   env:
     ASPNETCORE_ENVIRONMENT: development
   services:
-   - myDiscoveryService
-   - myHystrixService
+   - <YOUR INITIALS>-DiscoveryService
+   - <YOUR INITIALS>-HystrixService
