@@ -7,5 +7,3 @@ applications:
   command: cmd /c .\Fortune-Teller-Service --server.urls http://0.0.0.0:%PORT%
   env:
     ASPNETCORE_ENVIRONMENT: Development
-  services:
-   - myDiscoveryService
