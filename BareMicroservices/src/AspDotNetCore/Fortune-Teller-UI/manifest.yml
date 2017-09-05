@@ -5,4 +5,4 @@ applications:
   env:
     ASPNETCORE_ENVIRONMENT: Development
   services:
-    - myDiscoveryService
+    - <YOUR INITIALS>-FortuneService
