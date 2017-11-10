@@ -1,6 +1,6 @@
 ---
 applications:
-- name: fortuneui
+- name: <YOUR INITIALS>-fortuneui
   memory: 512M
   env:
     ASPNETCORE_ENVIRONMENT: Development
